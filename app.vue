@@ -8,8 +8,14 @@
                             <SidebarLeft />
                         </div>
                     </div>
-<!--                    <div class="bg-blue-600">center</div>-->
-<!--                    <div class="bg-green-600">right</div>-->
+
+                    <div class="col-span-12 md:col-span-8 xl:col-span-6 bg-red-600">center</div>
+
+                    <div class="hidden col-span-12 md:block xs:col-span-3 xl:col-span-4 w-full">
+                        <div class="sticky top-0">
+                            <SidebarRight />
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
