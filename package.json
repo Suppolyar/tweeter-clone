@@ -18,6 +18,7 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
-    "@heroicons/vue": "^2.0.17"
+    "@heroicons/vue": "^2.0.17",
+    "h3": "^1.6.4"
   }
 }
