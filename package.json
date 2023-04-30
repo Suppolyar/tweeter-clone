@@ -12,13 +12,18 @@
     "@tailwindcss/forms": "^0.5.3",
     "@types/node": "^18",
     "autoprefixer": "^10.4.14",
+    "mongodb": "^5.3.0",
     "nuxt": "^3.4.2",
     "postcss": "^8.4.23",
+    "prisma": "^4.13.0",
     "tailwindcss": "^3.3.1",
     "typescript": "^5.0.4"
   },
   "dependencies": {
     "@heroicons/vue": "^2.0.17",
-    "h3": "^1.6.4"
+    "@prisma/client": "4.13.0",
+    "bcrypt": "^5.1.0",
+    "h3": "^1.6.4",
+    "jsonwebtoken": "^9.0.0"
   }
 }
