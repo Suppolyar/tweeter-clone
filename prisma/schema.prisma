@@ -71,3 +71,4 @@ model MediaFile {
   tweet Tweet? @relation(fields: [tweetId], references: [id])
   tweetId String? @db.ObjectId
 }
+

@@ -2,6 +2,7 @@
     <section>
         <MainSection title="Home" :loading="loading">
             {{ user }}
+          <TweetForm :user="user" />
         </MainSection>
     </section>
 </template>

@@ -23,6 +23,7 @@
     "@heroicons/vue": "^2.0.17",
     "@prisma/client": "4.13.0",
     "bcrypt": "^5.1.0",
+    "cloudinary": "^1.36.4",
     "formidable": "^2.1.1",
     "h3": "^1.6.4",
     "jsonwebtoken": "^9.0.0",
